@@ -30,7 +30,7 @@ theme = "hugo-initio"
     showFooterFormWidget = true
 
 [[menu.main]]
-    name = "A propos"
+    name = "Accueil"
     url = "/"
     weight = 1
 [[menu.main]]
