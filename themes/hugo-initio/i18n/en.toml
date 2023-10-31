@@ -1,11 +1,11 @@
 [home_services]
-    other = "Services"
+    other = "Objectifs du CIMVO"
 
 [home_recentworks]
-    other = "Recent works"
+    other = "dossiers récents"
 
 [home_clients]
-    other = "Clients"
+    other = "Partenaires & Adhérents"
 
 [404_title]
     other = "404"
