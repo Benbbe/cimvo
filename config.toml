@@ -1,6 +1,6 @@
 baseURL = "https://benbbe.github.io/hugo-initio/"
 languageCode = "en"
-title = "Initio - Free, multipurpose html5 template by GetTemplate"
+title = "CIMVO-95 - Le Conseil des Institutions Musulanes du Val d'Oise"
 theme = "hugo-initio"
 
 [params]
