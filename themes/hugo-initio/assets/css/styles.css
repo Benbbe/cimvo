@@ -256,6 +256,10 @@ a:hover {
 }
 #head .title a {
   text-decoration: none;
+  color: #ffffff;
+}
+#head .title {
+  text-decoration: none;
   color: #ffffff !important;
 }
 #head .tagline {
