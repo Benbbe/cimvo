@@ -1,4 +1,4 @@
-baseURL = "https://benbbe.github.io/hugo-initio/"
+baseURL = "https://benbbe.github.io/cimvo/"
 languageCode = "en"
 title = "CIMVO-95 - Le Conseil des Institutions Musulanes du Val d'Oise"
 theme = "hugo-initio"
